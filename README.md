@@ -27,35 +27,6 @@
 4. **Supplier Matching** finds Jakarta suppliers with contact information
 5. **Results** ready-to-use material lists with supplier recommendations
 
-# 🏗️ Building Buddy - AI Construction Procurement System
-
-**🌐 LIVE DEMO**: https://building-buddy-app-703194644624.us-central1.run.app
-
-> AI-powered construction material sourcing for Indonesian contractors using Google's Agent Development Kit (ADK)
-
-## 🎯 Hackathon Submission
-
-**Category**: Automation of Complex Processes  
-**Target Market**: Indonesian Construction Contractors (Jakarta)  
-**Tech Stack**: Google ADK + OpenAI GPT-4o + Cloud Run + Streamlit  
-
-## ✨ Key Features
-
-- 🤖 **Multi-Agent AI System**: 3 specialized ADK agents working in coordination
-- 📄 **Real PDF Analysis**: OpenAI GPT-4o vision AI reads construction drawings
-- 🇮🇩 **Indonesian Standards**: SNI codes and local construction terminology  
-- 🏪 **Jakarta Suppliers**: Geographic proximity-based recommendations
-- 📱 **Mobile Ready**: Responsive design for construction site usage
-- ⚡ **Real-time Processing**: Visual progress tracking through 3 AI phases
-
-## 🚀 How It Works
-
-1. **Upload** construction PDF (floor plans, BoQ, specifications)
-2. **AI Analysis** extracts materials and quantities using GPT-4o Vision
-3. **Standardization** applies Indonesian SNI standards and local terminology
-4. **Supplier Matching** finds Jakarta suppliers with contact information
-5. **Results** ready-to-use material lists with supplier recommendations
-
 ## 🏛️ Architecture
 
 Building Buddy Platform
