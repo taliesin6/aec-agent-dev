@@ -1,0 +1,12 @@
+google-adk>=1.0.0
+google-cloud-aiplatform
+google-cloud-bigquery
+google-auth
+streamlit
+python-multipart
+google-generativeai
+openai
+python-dotenv
+pandas
+Pillow
+PyPDF2
