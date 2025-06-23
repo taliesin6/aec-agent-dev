@@ -1,0 +1,12 @@
+# Phase 5: Streamlit UI Dependencies
+streamlit==1.28.1
+google-adk>=1.0.0
+google-cloud-aiplatform
+google-cloud-bigquery
+google-auth
+python-multipart
+python-dotenv
+pandas
+Pillow
+PyPDF2
+plotly
