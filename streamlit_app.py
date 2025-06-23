@@ -364,7 +364,7 @@ def main():
     st.markdown("""
     <div class="main-header">
         <h1>🏗️ Building Buddy</h1>
-        <p>AI-Powered Construction Material Sourcing for Jakarta Contractors</p>
+        <p>AI-Powered Construction Material Sourcing for Lazy Contractors</p>
     </div>
     """, unsafe_allow_html=True)
     
